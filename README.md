@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python,Django,Weka for Data Mining**
 
-- 👨‍💻 All of my projects are available at [https://jayesh2726.github.io/Jayesh_Portfolio/](https://jayesh2726.github.io/Jayesh_Portfolio/)
+- 👨‍💻 All of my projects are available at [https://jayesh2726.github.io/Jayesh_Portfolio/]([https://jayesh2726.github.io/Jayesh_Portfolio/](https://datawithjayesh.lovable.app/))
 
 - 💬 Ask me about **HTML,CSS,Java,Python,MYSQL,DBMS**
 
