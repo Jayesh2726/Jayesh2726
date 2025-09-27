@@ -1,4 +1,4 @@
-![logo](https://github.com/Jayesh2726/Jayesh-Magare/blob/main/Github%20Banner.png)
+![logo](https://github.com/Jayesh2726/Jayesh2726/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Jayesh Magare</h1>
 <h3 align="center">A Passionate Data Scientist and Analyst </h3>
 
