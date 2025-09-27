@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayesh2726&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh2726" /> </p>
 
-- 🌱 I’m currently learning **Python,Django,Weka for Data Mining**
+- 🌱 I’m currently learning **R, Django,Databricks,Kafka,Airflow,Snowflake**
 
 - 👨‍💻 All of my projects are available at [https://jayesh2726.github.io/Jayesh_Portfolio/]([https://jayesh2726.github.io/Jayesh_Portfolio/](https://datawithjayesh.lovable.app/))
 
@@ -19,12 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jayeshmagare68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayeshmagare68" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-magare-a86444254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayesh-magare-a86444254/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/jayeshravindramagare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/jayeshravindramagare" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/__.jayesh_magare.__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__.jayesh_magare.__/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/jayeshmagare27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/jayeshmagare27" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/jayeshmagare27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/jayeshmagare27" height="30" width="40" /></a>
+<a href="https://x.com/JayeshMagare68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JayeshMagare68" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jayesh-magare-a86444254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayesh-magare-a86444254/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__.jayesh_magare.__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__.jayesh_magare.__/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
