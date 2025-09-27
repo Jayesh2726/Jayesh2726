@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **R, Django,Databricks,Kafka,Airflow,Snowflake**
 
-- 👨‍💻 All of my projects are available at [https://jayesh2726.github.io/Jayesh_Portfolio/]([https://jayesh2726.github.io/Jayesh_Portfolio/](https://datawithjayesh.lovable.app/))
+- 👨‍💻 All of my projects are available at <a href="https://datawithjayesh.lovable.app/" target="blank"></a>
 
 - 💬 Ask me about **HTML,CSS,Java,Python,MYSQL,DBMS**
 
