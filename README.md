@@ -9,8 +9,9 @@
 
 - 🌱 I’m currently learning **R, Django,Databricks,Kafka,Airflow,Snowflake**
 
-- 👨‍💻 All of my projects are available at <a href="https://datawithjayesh.lovable.app/" target="blank"></a>
-
+- 👨‍💻 All of my projects are available at <a href="https://datawithjayesh.lovable.app/">
+  	<button>Visit</button>
+</a>
 - 💬 Ask me about **HTML,CSS,Java,Python,MYSQL,DBMS**
 
 - 📫 How to reach me **jayeshmagare27@gmail.com**
